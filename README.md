@@ -4,6 +4,12 @@
 
 The Personal Finance Manager is a Java-based application that helps users track their personal transactions. The application provides functionalities to add income and expense entries, categorize transactions, and visualise data using charts.
 
+## Demo
+
+<p align="center">
+  <img src="src/demo_image/demo.png" alt="Demo Image" width="600">
+</p>
+
 ## Features
 
 - Add income and expense entries
